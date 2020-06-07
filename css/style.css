@@ -127,3 +127,6 @@ img{
     margin-bottom: 5px;
 }
 
+.cases img:hover{
+    opacity: 0.7;
+}
