@@ -127,11 +127,3 @@ img{
     margin-bottom: 5px;
 }
 
-.flex-items{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    text-align: center;
-    height: 100%;
-    margin: 20px;
-}
